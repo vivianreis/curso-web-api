@@ -1,0 +1,17 @@
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\bin\Debug\Cubo.Curso.WebApi.Infraestrutura.Data.dll.config
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\bin\Debug\Cubo.Curso.WebApi.Infraestrutura.Data.dll
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\bin\Debug\Cubo.Curso.WebApi.Infraestrutura.Data.pdb
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\bin\Debug\Cubo.Curso.WebApi.Dominio.dll
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\bin\Debug\EntityFramework.dll
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\bin\Debug\FluentValidation.dll
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\bin\Debug\Cubo.Curso.WebApi.Dominio.pdb
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\bin\Debug\EntityFramework.xml
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\bin\Debug\FluentValidation.xml
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\obj\Debug\Cubo.Curso.WebApi.Infraestrutura.Data.csprojAssemblyReference.cache
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\obj\Debug\Cubo.Curso.WebApi.Infraestrutura.Data.csproj.CoreCompileInputs.cache
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\obj\Debug\Cubo.Curso.WebApi.Infraestrutura.Data.csproj.CopyComplete
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\obj\Debug\Cubo.Curso.WebApi.Infraestrutura.Data.dll
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\obj\Debug\Cubo.Curso.WebApi.Infraestrutura.Data.pdb
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestrutura.Data\bin\Debug\Oracle.ManagedDataAccess.dll

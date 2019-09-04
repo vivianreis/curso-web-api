@@ -1,0 +1,1 @@
+C:\ghr-vivian\Cubo.Curso.WebApi\Cubo.Curso.WebApi.Infraestructure.Data\obj\Debug\Cubo.Curso.WebApi.Infraestructure.Data.csproj.CoreCompileInputs.cache
